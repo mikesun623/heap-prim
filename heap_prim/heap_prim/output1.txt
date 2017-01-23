@@ -1,0 +1,17 @@
+<-------------------result for the brute force-------------------------------->
+6 -> 2
+4 -> 3
+5 -> 4
+6 -> 5
+6 -> 5
+the total of the weight is : 25
+<-------------------result for the prim-------------------------------->
+the total of the weight is : 25
+<-------------------result for the list heap-------------------------------->
+using the prim, the result is : 
+1 -> 5
+5 -> 4
+4 -> 3
+3 -> 2
+6 -> 1
+the total of the weight is : 25
